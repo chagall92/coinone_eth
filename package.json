@@ -1,0 +1,16 @@
+{
+  "name": "coinone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "coinone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "crypto": "0.0.3",
+    "request": "^2.81.0"
+  }
+}
